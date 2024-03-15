@@ -15,6 +15,7 @@ io.getstream.chat.android.client.debugger
 io.getstream.chat.android.client.di
 io.getstream.chat.android.client.errorhandler
 io.getstream.chat.android.client.errorhandler.factory
+io.getstream.chat.android.client.errors
 io.getstream.chat.android.client.errors.cause
 io.getstream.chat.android.client.events
 io.getstream.chat.android.client.extensions

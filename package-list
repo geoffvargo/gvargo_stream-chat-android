@@ -105,6 +105,7 @@ io.getstream.chat.android.compose.viewmodel.channels
 io.getstream.chat.android.compose.viewmodel.mediapreview
 io.getstream.chat.android.compose.viewmodel.messages
 module:stream-chat-android-core
+io.getstream.chat.android
 io.getstream.chat.android.client
 io.getstream.chat.android.client.errors
 io.getstream.chat.android.core

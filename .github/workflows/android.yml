@@ -1,6 +1,12 @@
 name: Android CI
 
 on:
+  workflow_run:
+    workflows: [ "Android CI" ]
+    # workflow_dispatch:
+    types:
+      - completed
+    
   push:
     branches: [ "main" ]
   pull_request:
